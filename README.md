@@ -1,4 +1,4 @@
-# Hola, soy Jenn
+# Hola, soy Jennyfer
 
 Soy desarrolladora web en Madrid. Disfruto tanto diseñando una pantalla como averiguando por qué un dato llega mal hasta ella.
 
